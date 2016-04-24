@@ -6,6 +6,7 @@
 #app详情页
 ![image](https://github.com/cenzr/GooglePlayDemo/blob/master/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87/detail.png)
 #下载
+![image](https://github.com/cenzr/GooglePlayDemo/blob/master/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87/load1.png)
 ![image](https://github.com/cenzr/GooglePlayDemo/blob/master/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87/downloading.png)
 #安装
 ![image](https://github.com/cenzr/GooglePlayDemo/blob/master/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87/install.png)
