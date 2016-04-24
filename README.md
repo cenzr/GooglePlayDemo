@@ -9,7 +9,7 @@
 ![image](https://github.com/cenzr/GooglePlayDemo/blob/master/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87/load.png)
 ![image](https://github.com/cenzr/GooglePlayDemo/blob/master/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87/downloading.png)
 #安装
-![image](https://github.com/cenzr/GooglePlayDemo/blob/master/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87/install.png)
+
 ![image](https://github.com/cenzr/GooglePlayDemo/blob/master/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87/install1.png)
 #专题页
 ![image](https://github.com/cenzr/GooglePlayDemo/blob/master/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87/catergory.png)
